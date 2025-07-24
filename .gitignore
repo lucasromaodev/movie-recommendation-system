@@ -1,4 +1,5 @@
 config.py
 __pycache__
-world_imdb_movies_top_movies_per_year.csv
+__pycache__/
 tmdb_cache.json
+world_imdb_movies_top_movies_per_year.csv
